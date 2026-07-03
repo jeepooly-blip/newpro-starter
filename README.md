@@ -1,23 +1,19 @@
 # Newpro Starter
 
-A clean, modern, and production-ready **Next.js 16** starter template with best practices.
+A clean, modern, and scalable **Next.js** starter template.
 
 ## Features
 
-- Next.js 16 (App Router)
+- Next.js 16 (App Router + Turbopack)
 - TypeScript
 - Tailwind CSS + Shadcn/ui
-- Dark/Light mode
-- TanStack Query ready
-- Server Actions ready
-- Clean folder structure
+- Dark/Light mode support
+- TanStack Query (data fetching)
+- Server Components + Server Actions ready
+- Clean and scalable folder structure
 
-## Getting Started
+## Quick Start
 
 ```bash
-# 1. Clone or use this template
-# 2. Install dependencies
 npm install
-
-# 3. Run development server
 npm run dev
